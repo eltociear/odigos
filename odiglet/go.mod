@@ -10,7 +10,7 @@ require (
 	github.com/keyval-dev/odigos/api v0.0.0-00010101000000-000000000000
 	github.com/keyval-dev/odigos/common v0.0.0
 	github.com/kubevirt/device-plugin-manager v1.19.5
-	github.com/otiai10/copy v1.12.0
+	github.com/otiai10/copy v1.14.0
 	go.opentelemetry.io/auto v0.2.1-alpha
 	go.uber.org/zap v1.26.0
 	google.golang.org/grpc v1.58.2
@@ -70,6 +70,7 @@ require (
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e // indirect
 	golang.org/x/net v0.13.0 // indirect
 	golang.org/x/oauth2 v0.10.0 // indirect
+	golang.org/x/sync v0.3.0 // indirect
 	golang.org/x/sys v0.11.0 // indirect
 	golang.org/x/term v0.10.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
